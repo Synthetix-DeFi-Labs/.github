@@ -2,7 +2,7 @@
 
 # Synthetix DeFi Labs
 
-![Synthetix DeFi Labs Banner](https://your-banner-image-url.com)
+![Synthetix DeFi Labs Banner](https://raw.githubusercontent.com/Synthetix-DeFi-Labs/.github/refs/heads/main/profile/maxresdefault.jpg)
 
 **Revolutionizing DeFi, One Block at a Time**
 
